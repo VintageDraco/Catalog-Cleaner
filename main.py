@@ -1,4 +1,4 @@
-# Chris12902
+# Vintage_Draco
 # 26 July 2020
 # Catalog Cleaner: Searches through 24 pages of catalog clothes and removes all duplicate items, then provides a list of all original IDs.
 
@@ -6,8 +6,8 @@ from urllib.request import Request, urlopen
 import re
 thumbnails = []
 ids = []
-total_ids = 0
-total_copies = 0
+total_ids = 5
+total_copies = 7
 pages_to_search = 24
 
 url = "https://search.roblox.com/catalog/json?Category=3"
