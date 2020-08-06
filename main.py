@@ -1,4 +1,4 @@
-# Chris12902
+# Vintage_Draco
 # 26 July 2020
 # Catalog Cleaner: Searches through 24 pages of catalog clothes and removes all duplicate items, then provides a list of all original IDs.
 
